@@ -1,10 +1,12 @@
 ### Api de Produtos
 ## Api com tabelas de produtos e tabelas de usuários.
 ## Feita com a intenção de treinar o uso do Spring security com JWT
+## Banco de dados h2:file
 ## -----------Ferramentas------------------
 * InteliJ
 * Spring boot
 * Spring security
+* JWT
 * H2 database
 * Postman
 * JPA
